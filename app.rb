@@ -19,7 +19,6 @@ get("/rock") do
   end
 
   erb(:rock)
-
   erb(:footer)
 
 end
@@ -38,7 +37,6 @@ get("/paper") do
   end
 
   erb(:paper)
-
   erb(:footer)
 
 end
@@ -57,7 +55,6 @@ get("/scissors") do
   end
 
   erb(:scissors)
-
   erb(:footer)
 
 end
